@@ -1,5 +1,5 @@
 {
-  "name": "coal-mine",
+  "name": "coalmine",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silasbw/coal-mine.git"
+    "url": "git+https://github.com/silasbw/coalmine.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/silasbw/coal-mine/issues"
+    "url": "https://github.com/silasbw/coalmine/issues"
   },
-  "homepage": "https://github.com/silasbw/coal-mine#readme",
+  "homepage": "https://github.com/silasbw/coalmine#readme",
   "dependencies": {
     "express": "^4.16.3",
     "winston": "^3.0.0-rc3"
